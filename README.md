@@ -61,4 +61,6 @@ The dataset follows a standardized data engineering pipeline:
 *   **Lexicon Performance:** Through the Financial PhraseBank validation, the **L-M lexicon** was found to outperform VADER by **5.8 percentage points** on financial-specific text, justifying its weight in the final analysis.
     
 *   **Temporal Alignment:** The dataset provides **247 overlapping trading days**, covering a full year of market activity.Pakistan Financial Sentiment & Equity Dataset (2025–2026)
+
+## The raw/ data folder (approx. 74MB of NDJSON records) has been excluded from this repository to ensure data privacy and PII protection.
 =========================================================
